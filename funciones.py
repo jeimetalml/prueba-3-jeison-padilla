@@ -1,5 +1,6 @@
 
 
+#estoy realizando una prueba a ver si funca o no.
 def validar_opcion():
     while True:
         try:
